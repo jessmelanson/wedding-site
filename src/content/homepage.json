@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "title": "Lorem Ipsum",
+    "description": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt.",
+    "image": "https://i.ibb.co/7zJVRwB/silhouette-against-clouds.jpg"
+  },
+  "body": {
+    "sections": [
+      {
+        "title": "Nunc at massa et!",
+        "text": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed. Cras maximus felis sed nibh sodales, et dapibus orci vulputate. Praesent eu eleifend orci. Nam eget interdum nulla. Donec ultricies urna et sodales venenatis. \n\nCurabitur vitae felis vel nibh fermentum porttitor eu vel diam. Sed vitae tincidunt elit. Phasellus fringilla, odio tristique porttitor dignissim, velit augue semper mauris, ut commodo elit tortor eget lectus. Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt. Morbi sollicitudin gravida arcu quis condimentum. Aliquam feugiat pharetra euismod."
+      }
+    ]
+  }
+}

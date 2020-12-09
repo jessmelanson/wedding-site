@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "Wedding Party",
+    "image": "https://i.ibb.co/D88zm86/bridesmaids-flowers.jpg"
+  },
+  "body": {
+    "sections": [
+      {
+        "title": "Bridal Party",
+        "cards": [
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          },
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          },
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          },
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          }
+        ]
+      },
+      {
+        "title": "Groom's Party",
+        "cards": [
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          },
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          },
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          }
+        ]
+      },
+      {
+        "title": "Parents",
+        "cards": [
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          },
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          },
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          },
+          {
+            "name": "Lorem Ipsum",
+            "image": "https://i.ibb.co/zHZG1bg/person.png",
+            "role": "Dolor sit Amet",
+            "bio": "Nulla facilisi. Nunc feugiat odio sed eros vulputate bibendum. Ut eget enim sapien. Integer cursus lectus lectus, ac varius quam dapibus sed."
+          }
+        ]
+      }
+    ]
+  }
+}

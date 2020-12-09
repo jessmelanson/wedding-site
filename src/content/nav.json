@@ -1,0 +1,43 @@
+{
+  "home": {
+    "title": "Home",
+    "url": "/"
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "url": "/rsvp"
+  },
+  "schedule": {
+    "title": "Schedule",
+    "url": "/schedule"
+  },
+  "faq": {
+    "title": "FAQ",
+    "url": "/faq"
+  },
+  "lodgingTravel": {
+    "title": "Lodging & Travel",
+    "url": "/lodging-travel"
+  },
+  "ceremonyProgram": {
+    "title": "Ceremony Program",
+    "url": "/ceremony-program"
+  },
+  "weddingParty": {
+    "title": "Wedding Party",
+    "url": "/wedding-party"
+  },
+  "registry": {
+    "title": "Registry",
+    "url": "/registry"
+  },
+  "photos": {
+    "title": "Photos",
+    "url": "/photos"
+  },
+  "thingsToDo": {
+    "title": "Things To Do",
+    "url": "https://www.example.com",
+    "target": "_blank"
+  }
+}

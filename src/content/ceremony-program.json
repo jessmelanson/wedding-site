@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "title": "Ceremony Program",
+    "image": "https://i.ibb.co/Kjmc8xC/ceremony-page-background.jpg"
+  },
+  "body": {
+    "sections": [
+      {
+        "heading": "Lorem ipsum",
+        "text": "Dolor Sit Amet, Consectetur Adipiscing"
+      },
+      {
+        "heading": "Lorem ipsum",
+        "text": "Dolor Sit Amet, Consectetur Adipiscing"
+      },
+      {
+        "heading": "Lorem ipsum",
+        "text": "Dolor Sit Amet, Consectetur Adipiscing"
+      },
+      {
+        "heading": "Lorem ipsum",
+        "text": "Dolor Sit Amet, Consectetur Adipiscing"
+      },
+      {
+        "heading": "Lorem ipsum",
+        "text": "Dolor Sit Amet, Consectetur Adipiscing"
+      },
+      {
+        "heading": "Lorem ipsum",
+        "text": "Dolor Sit Amet, Consectetur Adipiscing"
+      },
+      {
+        "heading": "Lorem ipsum",
+        "text": "Dolor Sit Amet, Consectetur Adipiscing"
+      }
+    ]
+  }
+}

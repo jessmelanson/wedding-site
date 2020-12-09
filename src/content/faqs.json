@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "title": "FAQ"
+  },
+  "body": {
+    "sections": [
+      {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+        "answer": [
+          {
+            "type": "text",
+            "content": "Pellentesque consectetur turpis vitae molestie mollis. Nulla porta "
+          },
+          {
+            "type": "internalLink",
+            "href": "/rsvp",
+            "content": "RSVP"
+          },
+          {
+            "type": "text",
+            "content": " hendrerit dolor."
+          }
+        ]
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+        "answer": [
+          {
+            "type": "text",
+            "content": "Fusce non ornare metus, quis tristique ante. Mauris id cursus erat, at ornare est."
+          }
+        ]
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+        "answer": [
+          {
+            "type": "text",
+            "content": "Fusce non ornare metus, quis tristique ante. Mauris id cursus erat, at ornare est."
+          }
+        ]
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+        "answer": [
+          {
+            "type": "text",
+            "content": "Fusce non ornare metus, "
+          },
+          {
+            "type": "externalLink",
+            "content": "quis tristique ante",
+            "href": "https://www.example.com",
+            "target": "_blank"
+          },
+          {
+            "type": "text",
+            "content": ". Mauris id cursus erat, at ornare est."
+          }
+        ]
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+        "answer": [
+          {
+            "type": "text",
+            "content": "Fusce non ornare metus, quis tristique ante. Mauris id cursus erat, at ornare est.\""
+          }
+        ]
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+        "answer": [
+          {
+            "type": "text",
+            "content": "Fusce non ornare metus, quis tristique ante. "
+          },
+          {
+            "type": "internalLink",
+            "href": "/lodging-travel",
+            "content": "Mauris id cursus erat"
+          },
+          {
+            "type": "text",
+            "content": ", at ornare est."
+          }
+        ]
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+        "answer": [
+          {
+            "type": "text",
+            "content": "Fusce non ornare metus:"
+          },
+          {
+            "type": "locationList",
+            "content": [
+              {
+                "title": "Nulla Facilisi",
+                "address": "1 Main St, Boston, MA 01234",
+                "phone": "(555) 555-5555"
+              },
+              {
+                "title": "Nulla Facilisi",
+                "address": "1 Main St, Boston, MA 01234",
+                "phone": "(555) 555-5555"
+              },
+              {
+                "title": "Nulla Facilisi",
+                "address": "1 Main St, Boston, MA 01234",
+                "phone": "(555) 555-5555"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

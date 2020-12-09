@@ -1,0 +1,68 @@
+{
+  "hero": {
+    "title": "Photos",
+    "description": "Curabitur vitae felis vel nibh fermentum porttitor eu vel diam."
+  },
+  "photos": [
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/yR1PkvZ/pexels-flora-westbrook-6103917.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/dQ0JRNQ/pexels-stijn-dijkstra-2583849.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/Fss4yJR/pexels-kira-louw-4755029.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/HrcSQs5/pexels-mathias-pr-reding-4389550.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/yR1PkvZ/pexels-flora-westbrook-6103917.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/dQ0JRNQ/pexels-stijn-dijkstra-2583849.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/Fss4yJR/pexels-kira-louw-4755029.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/HrcSQs5/pexels-mathias-pr-reding-4389550.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/yR1PkvZ/pexels-flora-westbrook-6103917.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/dQ0JRNQ/pexels-stijn-dijkstra-2583849.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/Fss4yJR/pexels-kira-louw-4755029.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/HrcSQs5/pexels-mathias-pr-reding-4389550.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/yR1PkvZ/pexels-flora-westbrook-6103917.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/dQ0JRNQ/pexels-stijn-dijkstra-2583849.jpg"
+    },
+    {
+      "title": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt",
+      "url": "https://i.ibb.co/Fss4yJR/pexels-kira-louw-4755029.jpg"
+    }
+  ]
+}

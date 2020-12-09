@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "RSVP",
+    "image": "https://i.ibb.co/Mg4zTPc/love-envelope-photo.jpg"
+  },
+  "body": {
+    "sections": [
+      {
+        "title": "Mauris id cursus erat, at ornare est",
+        "text": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt.",
+        "rsvpSrc": "https://www.example.com",
+        "rsvpTitle": "Lorem Ipsum!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Registry",
+    "image": "https://i.ibb.co/WFfFwQZ/gifts.jpg"
+  },
+  "body": {
+    "sections": [
+      {
+        "title": "Lorem Ipsum!",
+        "text": "Phasellus facilisis tristique leo, in venenatis purus blandit tincidunt.",
+        "registrySrc": "https://www.example.com",
+        "registryTitle": "Lorem Ipsum"
+      }
+    ]
+  }
+}

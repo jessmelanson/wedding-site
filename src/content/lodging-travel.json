@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "Lodging & Travel",
+    "image": "https://i.ibb.co/dm1YKNx/jordan-hotel-fireplace.jpg"
+  },
+  "body": {
+    "sections": [
+      {
+        "title": "Lodging",
+        "options": [
+          {
+            "description": "Nunc at massa et dui laoreet commodo. Phasellus laoreet urna ac leo varius, at gravida nunc facilisis. ",
+            "address": "1 Main St, Boston, MA 01234",
+            "phone": "(555) 555-5555",
+            "url": "https://www.example.com",
+            "mapTitle": "Nunc At Massa Et",
+            "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377643.1448643036!2d-71.25046756407667!3d42.31400891969002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3652d0d3d311b%3A0x787cbf240162e8a0!2sBoston%2C%20MA!5e0!3m2!1sen!2sus!4v1607399593160!5m2!1sen!2sus",
+            "buttonLabel": "Book Now"
+          },
+          {
+            "description": "Nunc at massa et dui laoreet commodo. Phasellus laoreet urna ac leo varius, at gravida nunc facilisis.",
+            "address": "1 Main St, Boston, MA 01234",
+            "phone": "(555) 555-5555",
+            "url": "https://www.example.com",
+            "mapTitle": "Nunc At Massa Et",
+            "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377643.1448643036!2d-71.25046756407667!3d42.31400891969002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3652d0d3d311b%3A0x787cbf240162e8a0!2sBoston%2C%20MA!5e0!3m2!1sen!2sus!4v1607399593160!5m2!1sen!2sus",
+            "buttonLabel": "Book Now"
+          }
+        ]
+      },
+      {
+        "title": "Travel",
+        "options": [
+          {
+            "mapTitle": "Nunc At Massa Et",
+            "address": "1 Main St, Boston, MA 01234",
+            "phone": "(555) 555-5555",
+            "url": "https://www.example.com",
+            "description": "Nunc at massa et dui laoreet commodo. Phasellus laoreet urna ac leo varius, at gravida nunc facilisis.",
+            "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377643.1448643036!2d-71.25046756407667!3d42.31400891969002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3652d0d3d311b%3A0x787cbf240162e8a0!2sBoston%2C%20MA!5e0!3m2!1sen!2sus!4v1607399593160!5m2!1sen!2sus",
+            "buttonLabel": "Learn More"
+          },
+          {
+            "mapTitle": "Nunc At Massa Et",
+            "address": "1 Main St, Boston, MA 01234",
+            "phone": "(555) 555-5555",
+            "url": "https://www.example.com",
+            "description": "Nunc at massa et dui laoreet commodo. Phasellus laoreet urna ac leo varius, at gravida nunc facilisis.",
+            "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377643.1448643036!2d-71.25046756407667!3d42.31400891969002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3652d0d3d311b%3A0x787cbf240162e8a0!2sBoston%2C%20MA!5e0!3m2!1sen!2sus!4v1607399593160!5m2!1sen!2sus",
+            "buttonLabel": "Learn More"
+          },
+          {
+            "mapTitle": "Nunc At Massa Et",
+            "address": "1 Main St, Boston, MA 01234",
+            "phone": "(555) 555-5555",
+            "url": "https://www.example.com",
+            "description": "Nunc at massa et dui laoreet commodo. Phasellus laoreet urna ac leo varius, at gravida nunc facilisis.",
+            "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377643.1448643036!2d-71.25046756407667!3d42.31400891969002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3652d0d3d311b%3A0x787cbf240162e8a0!2sBoston%2C%20MA!5e0!3m2!1sen!2sus!4v1607399593160!5m2!1sen!2sus",
+            "buttonLabel": "Learn More"
+          },
+          {
+            "mapTitle": "Nunc At Massa Et",
+            "url": "https://www.example.com",
+            "description": "Nunc at massa et dui laoreet commodo. Phasellus laoreet urna ac leo varius, at gravida nunc facilisis.",
+            "mapSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d377643.1448643036!2d-71.25046756407667!3d42.31400891969002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3652d0d3d311b%3A0x787cbf240162e8a0!2sBoston%2C%20MA!5e0!3m2!1sen!2sus!4v1607399593160!5m2!1sen!2sus",
+            "buttonLabel": "Get Directions"
+          }
+        ]
+      }
+    ]
+  }
+}
+

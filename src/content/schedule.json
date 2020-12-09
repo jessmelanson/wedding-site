@@ -1,0 +1,60 @@
+{
+  "hero": {
+    "title": "Schedule",
+    "image": "https://i.ibb.co/qRKSzZB/north-peak-ceremony.jpg"
+  },
+  "body": {
+    "sections": [
+      {
+        "title": "Lorem Ipsum",
+        "headings": [
+          "When",
+          "Where",
+          "What"
+        ],
+        "rows": [
+          {
+            "title": "Lorem ipsum",
+            "cells": [
+              "1/1 12 pm",
+              "Sin dolor amet",
+              "Nulla porta hendrerit dolor"
+            ]
+          },
+          {
+            "title": "Lorem ipsum",
+            "cells": [
+              "1/1 12 pm",
+              "Sin dolor amet",
+              "Nulla porta hendrerit dolor"
+            ]
+          },
+          {
+            "title": "Lorem ipsum",
+            "cells": [
+              "1/1 12 pm",
+              "Sin dolor amet",
+              "Nulla porta hendrerit dolor"
+            ]
+          },
+          {
+            "title": "Lorem ipsum",
+            "cells": [
+              "1/1 12 pm",
+              "Sin dolor amet",
+              "Nulla porta hendrerit dolor"
+            ]
+          },
+          {
+            "title": "Lorem ipsum",
+            "cells": [
+              "1/1 12 pm",
+              "Sin dolor amet",
+              "Nulla porta hendrerit dolor"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
